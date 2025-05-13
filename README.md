@@ -18,10 +18,20 @@ This project demonstrates training a simple neural network to classify handwritt
    - Define and train a neural network
    - Plot the training loss
    - Evaluate model accuracy on the test set
+   - Visualize the model architecture
 
 ## Features
 - Loads and visualizes MNIST data
-- Defines a simple feedforward neural network
+- Defines a simple CNN for digit classification
 - Trains the model and plots the loss curve
 - Evaluates accuracy on the test set
+- Visualizes the model architecture
+
+## Model Architecture Visualization
+Below is the architecture of the CNN model used in this project:
+
+![CNN Model Architecture](cnn_classifier_graph.png)
+
+---
+
 
